@@ -134,21 +134,32 @@ Here is some data to get you started; All the best !
   "gender": "male",
   
   "price": 4727,
+  
   "category": "salwar",
+  
   "image": "https://picsum.photos/200"
 }, {
   "id": 9,
+  
   "title": "Ivons",
+  
   "gender": "male",
+  
   "price": 1243,
+  
   "category": "trouser",
   "image": "https://picsum.photos/200"
 }, {
   "id": 10,
+  
   "title": "Markel",
+  
   "gender": "male",
+  
   "price": 1353,
+  
   "category": "jacket",
+  
   "image": "https://picsum.photos/200"
 }]
 
