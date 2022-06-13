@@ -45,6 +45,7 @@ Here is some data to get you started; All the best !
 
 [{
   "id": 1,
+<<<<<<< HEAD
 
   "title": "Bloodworth",
 
@@ -102,23 +103,92 @@ Here is some data to get you started; All the best !
 
   "category": "shirt",
 
+=======
+  
+  "title": "Bloodworth",
+  
+  "gender": "female",
+  
+  "price": 3978,
+  
+  "category": "saree",
+  
+  "image": "https://picsum.photos/200"
+}, {
+  "id": 2,
+  
+  "title": "Tomik",
+  
+  "gender": "female",
+  
+  "price": 2198,
+  
+  "category": "jacket",
+  
+  "image": "https://picsum.photos/200"
+}, {
+  "id": 3,
+  
+  "title": "Pauley",
+  
+  "gender": "male",
+  
+  "price": 933,
+  
+  "category": "jacket",
+  
+  "image": "https://picsum.photos/200"
+}, {
+  "id": 4,
+  
+  "title": "Edgerley",
+  
+  "gender": "female",
+  
+  "price": 4286,
+  
+  "category": "shirt",
+  
+  "image": "https://picsum.photos/200"
+}, {
+  "id": 5,
+  
+  "title": "Featherstonhaugh",
+  
+  "gender": "female",
+  
+  "price": 2853,
+  
+  "category": "shirt",
+  
+>>>>>>> 322976d849413822449cd10f055d7859ce026d8e
   "image": "https://picsum.photos/200"
 }, {
   "id": 6,
+  
   "title": "Busek",
+  
   "gender": "female",
+  
   "price": 4687,
+  
   "category": "shirt",
   "image": "https://picsum.photos/200"
 }, {
   "id": 7,
+  
   "title": "Myrie",
+  
   "gender": "male",
+  
   "price": 2684,
+  
   "category": "shirt",
+  
   "image": "https://picsum.photos/200"
 }, {
   "id": 8,
+<<<<<<< HEAD
 
   "title": "Doxey",
 
@@ -138,11 +208,33 @@ Here is some data to get you started; All the best !
 
   "price": 1243,
 
+=======
+  
+  "title": "Doxey",
+  
+  "gender": "male",
+  
+  "price": 4727,
+  
+  "category": "salwar",
+  
+  "image": "https://picsum.photos/200"
+}, {
+  "id": 9,
+  
+  "title": "Ivons",
+  
+  "gender": "male",
+  
+  "price": 1243,
+  
+>>>>>>> 322976d849413822449cd10f055d7859ce026d8e
   "category": "trouser",
 
   "image": "https://picsum.photos/200"
 }, {
   "id": 10,
+<<<<<<< HEAD
 
   "title": "Markel",
 
@@ -150,6 +242,15 @@ Here is some data to get you started; All the best !
 
   "price": 1353,
 
+=======
+  
+  "title": "Markel",
+  
+  "gender": "male",
+  
+  "price": 1353,
+  
+>>>>>>> 322976d849413822449cd10f055d7859ce026d8e
   "category": "jacket",
   
   "image": "https://picsum.photos/200"
