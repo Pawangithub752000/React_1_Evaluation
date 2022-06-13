@@ -45,24 +45,39 @@ Here is some data to get you started; All the best !
 
 [{
   "id": 1,
+  
   "title": "Bloodworth",
+  
   "gender": "female",
+  
   "price": 3978,
+  
   "category": "saree",
+  
   "image": "https://picsum.photos/200"
 }, {
   "id": 2,
+  
   "title": "Tomik",
+  
   "gender": "female",
+  
   "price": 2198,
+  
   "category": "jacket",
+  
   "image": "https://picsum.photos/200"
 }, {
   "id": 3,
+  
   "title": "Pauley",
+  
   "gender": "male",
+  
   "price": 933,
+  
   "category": "jacket",
+  
   "image": "https://picsum.photos/200"
 }, {
   "id": 4,
